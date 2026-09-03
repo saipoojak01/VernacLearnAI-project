@@ -1,0 +1,6 @@
+{
+  "name": "VernacLearn AI",
+  "description": "Mother-tongue primary education platform with role-based dashboards, AI contextualization, and offline-first capabilities",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
